@@ -1,26 +1,17 @@
-pandas==1.5.3
-numpy==1.24.2
-scikit-learn==1.2.0
-matplotlib==3.7.0
+keras==3.8.0
+matplotlib==3.9.2
+numpy==1.26.4
+openpyxl==2.6.7
+pandas==2.2.2
+plotly==5.14.0
+pyodbc==4.0.32
+PyYAML==6.0
+requests==2.28.2
+scikit-learn==1.5.1
+scipy==1.13.1
 seaborn==0.12.2
-tensorflow==2.12.0          # for deep learning projects
-keras==2.12.0               # for neural networks (if using TensorFlow)
-xgboost==1.7.5              # for gradient boosting models
-lightgbm==3.3.2             # another popular boosting library
-statsmodels==0.13.5         # for statistical models
-scipy==1.10.1               # for scientific computations
-plotly==5.14.0              # for interactive plots
-jupyter==1.0.0              # for Jupyter notebook support
-jupyterlab==3.6.3           # for JupyterLab (if needed)
-ipykernel==6.17.1           # for Jupyter kernel support
-notebook==6.5.5             # for Jupyter notebook interface
-requests==2.28.2            # for making HTTP requests (useful for APIs)
-pyyaml==6.0                 # for working with YAML files
-tqdm==4.65.0                # for progress bars in loops
-joblib==1.2.0               # for saving/loading models
-Pillow==9.4.0               # for image processing (if needed)
-openpyxl==3.1.2             # for reading/writing Excel files
-SQLAlchemy==2.0.0           # for SQL database connection
-psycopg2==2.9.6             # for PostgreSQL support (if using)
-matplotlib-venn==0.11.7     # for Venn diagrams
-pyod==0.9.8                 # for anomaly detection
+SQLAlchemy==2.0.0
+statsmodels==0.13.5
+tensorflow==2.18.0
+tqdm==4.65.0
+xgboost==2.1.4
