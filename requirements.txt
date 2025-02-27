@@ -7,7 +7,6 @@ aiosignal==1.2.0
 alabaster==0.7.16
 alembic==1.14.1
 altair==5.0.1
-anaconda-anon-usage==0.4.4
 anaconda-catalogs==0.2.0
 anaconda-client==1.12.3
 anaconda-cloud-auth==0.5.1
@@ -62,7 +61,6 @@ conda-pack==0.7.1
 conda-package-handling==2.3.0
 conda_package_streaming==0.10.0
 conda-repo-cli==1.0.114
-conda-token==0.5.0+1.g2209e04
 constantly==23.10.4
 contourpy==1.2.0
 cookiecutter==2.6.0
